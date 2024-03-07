@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opnCV", "opnCV\opnCV.vcxproj", "{B098E847-3F98-4C7E-B770-4385189D6343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B098E847-3F98-4C7E-B770-4385189D6343}.Debug|x64.ActiveCfg = Debug|x64
+		{B098E847-3F98-4C7E-B770-4385189D6343}.Debug|x64.Build.0 = Debug|x64
+		{B098E847-3F98-4C7E-B770-4385189D6343}.Debug|x86.ActiveCfg = Debug|Win32
+		{B098E847-3F98-4C7E-B770-4385189D6343}.Debug|x86.Build.0 = Debug|Win32
+		{B098E847-3F98-4C7E-B770-4385189D6343}.Release|x64.ActiveCfg = Release|x64
+		{B098E847-3F98-4C7E-B770-4385189D6343}.Release|x64.Build.0 = Release|x64
+		{B098E847-3F98-4C7E-B770-4385189D6343}.Release|x86.ActiveCfg = Release|Win32
+		{B098E847-3F98-4C7E-B770-4385189D6343}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2C08742-3451-4CA3-8B45-FEDDE6D1CC0C}
+	EndGlobalSection
+EndGlobal
