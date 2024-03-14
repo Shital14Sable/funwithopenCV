@@ -52,7 +52,7 @@ void getContours(Mat imgDil, Mat img) {
 }
 
 
-void main() {
+void helper() {
 
 	string path = "Resources/shapes.png";
 	Mat img = imread(path);
@@ -75,4 +75,8 @@ void main() {
 
 	waitKey(0);
 
+}
+
+void main() {
+	helper();
 }
